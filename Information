@@ -1,0 +1,4 @@
+Parent = (i-1)/2
+
+Left Child = 2i+1
+Right Child = 2i+2
